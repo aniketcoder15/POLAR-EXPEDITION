@@ -1,0 +1,8 @@
+{
+  "name": "Remix POLAR EXPEDITION",
+  "description": "Expedition • Track • Respond - Integrated Polar Expedition Logistics and Asset Management System",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
